@@ -16,7 +16,7 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **CI/CD:** Jenkins
 - **Test Management:** Jira, TestRail
 - **Version Control:** Git, GitHub
-## 🌐 Contacts
+## 📫 Contacts
 
 **Жирный текст**  
 __Жирный текст__  
