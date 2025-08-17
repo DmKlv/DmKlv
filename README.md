@@ -9,7 +9,7 @@ I actively apply best testing practices to enhance transparency and predictabili
 Collaboration with teams is a key aspect of my approach: I believe that knowledge sharing, teamwork, and active engagement from every team member are essential for project success. I enjoy solving real-world challenges, implementing innovative solutions, and improving existing tools to increase product quality.
 
 I continuously develop my skills and follow modern automation approaches, including Selenium, Selenide, Cucumber, and Postman, while leveraging CI/CD pipelines to integrate testing into the development workflow. My goal is to create reliable, maintainable, and scalable solutions that help teams achieve maximum efficiency.
- ## 🛠 Skills [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/) [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/) [![TestNG](https://img.shields.io/badge/TestNG-7.8.0-orange)](https://testng.org/) [![Maven](https://img.shields.io/badge/Maven-3.9.0-blue)](https://maven.apache.org/) [![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](https://github.com/username/repo) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/repo)
+ ## 🛠 Skills [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/) [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/) [![TestNG](https://img.shields.io/badge/TestNG-7.8.0-orange)](https://testng.org/) [![Maven](https://img.shields.io/badge/Maven-3.9.0-blue)](https://maven.apache.org/) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
 
