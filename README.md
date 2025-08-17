@@ -12,7 +12,8 @@ I continuously develop my skills and follow modern automation approaches, includ
  ## 🛠 Skills
 - **Test Automation:** Selenium, Selenide, Cypress, Cucumber
 - **API Testing:** Postman
-- **Languages:** Java, SQL basics, HTML
+- **Languages:** [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/)
+ SQL basics, HTML
 - **CI/CD:** Jenkins
 - **Test Management:** Jira, TestRail
 - **Version Control:** Git, GitHub
