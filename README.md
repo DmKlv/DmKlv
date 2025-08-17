@@ -9,7 +9,8 @@ I actively apply best testing practices to enhance transparency and predictabili
 Collaboration with teams is a key aspect of my approach: I believe that knowledge sharing, teamwork, and active engagement from every team member are essential for project success. I enjoy solving real-world challenges, implementing innovative solutions, and improving existing tools to increase product quality.
 
 I continuously develop my skills and follow modern automation approaches, including Selenium, Selenide, Cucumber, and Postman, while leveraging CI/CD pipelines to integrate testing into the development workflow. My goal is to create reliable, maintainable, and scalable solutions that help teams achieve maximum efficiency.
- ## 🛠 Skills [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/) [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/)
+ ## 🛠 Skills [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/) [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/) [![TestNG](https://img.shields.io/badge/TestNG-7.8.0-orange)](https://testng.org/)
+
 
 - **Test Automation:** Selenium, Selenide, Cypress, Cucumber
 - **API Testing:** Postman
@@ -19,7 +20,6 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **Version Control:** Git, GitHub
 ## 📫 Contacts
 
-[![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/)
 
 
 
