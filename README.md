@@ -1,4 +1,4 @@
-# QA Engineer | Automation Tester | Java & Selenium
+# QA Engineer | Automation Tester | Manual tester| Java & Selenium
 
 
 ## 👨‍💻 About Me
