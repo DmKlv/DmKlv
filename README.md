@@ -1,6 +1,6 @@
-QA Engineer | Automation Tester | Java & Selenium
+#QA Engineer | Automation Tester | Java & Selenium
 
-# 👋 Hello, I'm Dmitriy
+ 👋 Hello, I'm Dmitriy
 
 
 
