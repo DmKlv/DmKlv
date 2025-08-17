@@ -21,12 +21,3 @@ I continuously develop my skills and follow modern automation approaches, includ
   ## 📫 Contact Me
 📧 Email: dmklvd@gmail.com  
 
-
-
-
-
-
-
-
-
--
