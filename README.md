@@ -3,10 +3,17 @@
  * 👋 Hello, I'm Dmitriy
 
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - QA Engineer with ~3 years of experience in manual and automated testing
 - Skills: Java, Selenium, Selenide, Cucumber, Postman
 - Methodologies: Scrum, Kanban
+- ## 🛠 Skills
+- **Test Automation:** Selenium, Selenide, Cypress, Cucumber
+- **API Testing:** Postman
+- **Languages:** Java, SQL basics
+- **CI/CD:** Jenkins
+- **Test Management:** Jira, TestRail
+- **Version Control:** Git, GitHub
 #### Заголовок 4
 ##### Заголовок 5
 ###### Заголовок 6
