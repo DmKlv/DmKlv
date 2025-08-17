@@ -17,8 +17,12 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **CI/CD:** Jenkins
 - **Test Management:** Jira, TestRail
 - **Version Control:** Git, GitHub
-## 📫 Contacts
-Email – ![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat&logo=gmail&logoColor=white)
+  
+  ## 📫 Contact Me
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [yourprofile](https://www.linkedin.com/in/yourprofile/)  
+💬 Telegram: [@yourusername](https://t.me/yourusername)  
+
 
 
 
