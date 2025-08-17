@@ -4,7 +4,7 @@
 
 
 ## 👨‍💻 About Me
-- I am a QA Engineer focused on delivering high-quality, reliable, and efficient software solutions. My experience spans both manual and automated testing, including the development and maintenance of robust test frameworks, CI/CD pipeline integration, and ensuring release stability.
+ I am a QA Engineer focused on delivering high-quality, reliable, and efficient software solutions. My experience spans both manual and automated testing, including the development and maintenance of robust test frameworks, CI/CD pipeline integration, and ensuring release stability.
 
 I actively apply best testing practices to enhance transparency and predictability in the development process. My work is aimed at identifying critical issues early, optimizing testing workflows, and creating tools that make development faster and safer.
 
