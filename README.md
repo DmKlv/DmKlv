@@ -11,7 +11,7 @@ Collaboration with teams is a key aspect of my approach: I believe that knowledg
 I continuously develop my skills and follow modern automation approaches, including Selenium, Selenide, Cucumber, and Postman, while leveraging CI/CD pipelines to integrate testing into the development workflow. My goal is to create reliable, maintainable, and scalable solutions that help teams achieve maximum efficiency.
  ## 🛠 Skills [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/) [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/) [![TestNG](https://img.shields.io/badge/TestNG-7.8.0-orange)](https://testng.org/) [![Maven](https://img.shields.io/badge/Maven-3.9.0-blue)](https://maven.apache.org/) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-FF6C37?style=flat)
 
-- **Test Automation:** Selenium, Selenide, Cypress, Cucumber
+- **Test Automation:** Selenium, Selenide, Cucumber
 - **API Testing:** Postman
 - **Languages:** Java, SQL basics, HTML
 - **CI/CD:** Jenkins
