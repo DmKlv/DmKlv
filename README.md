@@ -17,6 +17,6 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **Test Management:** Jira, TestRail
 - **Version Control:** Git, GitHub
 
-  ## 📫 Contact Me
+## 📫 Contact Me
 📧 Email: dmklvd@gmail.com  
 
