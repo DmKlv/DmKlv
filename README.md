@@ -4,7 +4,7 @@
 
 
 ### 👨‍💻 About Me
-- QA Engineer with ~2 years of experience in manual and automated testing
+- QA Engineer with ~3 years of experience in manual and automated testing
 - Skills: Java, Selenium, Selenide, Cucumber, Postman
 - Methodologies: Scrum, Kanban
 #### Заголовок 4
