@@ -15,7 +15,7 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **Languages:** Java, SQL basics, HTML
 - **CI/CD:** Jenkins
 - **Test Management:** Jira, TestRail
-- **Version Control:** Git, GitHub 
+- **Version Control:** Git, GitHub
 
 ## 📫 Contact Me
 📧 Email: dmklvd@gmail.com  
