@@ -8,7 +8,22 @@ I actively apply best testing practices to enhance transparency and predictabili
 Collaboration with teams is a key aspect of my approach: I believe that knowledge sharing, teamwork, and active engagement from every team member are essential for project success. I enjoy solving real-world challenges, implementing innovative solutions, and improving existing tools to increase product quality.
 
 I continuously develop my skills and follow modern automation approaches, including Selenium, Selenide, Cucumber, and Postman, while leveraging CI/CD pipelines to integrate testing into the development workflow. My goal is to create reliable, maintainable, and scalable solutions that help teams achieve maximum efficiency.
-## 🛠 Skills [![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow) [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) [![TestNG](https://img.shields.io/badge/TestNG-7.8.0-orange)](https://testng.org/) [![Maven](https://img.shields.io/badge/Maven-3.9.0-blue)](https://maven.apache.org/) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-FF6C37?style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+## 🛠 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02B?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge&logo=allure&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-FF6C37?style=for-the-badge&logo=testrail&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white)
 
 - **Test Automation:** Selenium, Selenide, Cucumber
 - **API Testing:** Postman
