@@ -37,7 +37,14 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **Version Control:** Git, GitHub
 
 ## 📊 GitHub Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Klv&theme=github_dark" />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitriy-Klv&theme=github_dark" width="100%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dmitriy-Klv&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dmitriy-Klv&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitriy-Klv&theme=github_dark" width="32%" />
+</div>
 
 ## 📫 Contact Me
 📧 Email: dmklvd@gmail.com 
@@ -45,6 +52,10 @@ I continuously develop my skills and follow modern automation approaches, includ
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmKlv&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+
+
+
 
 
 
