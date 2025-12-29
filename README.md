@@ -29,7 +29,7 @@ I continuously develop my skills and follow modern automation approaches, includ
 ![TestRail](https://img.shields.io/badge/TestRail-FF6C37?style=for-the-badge&logo=testrail&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white)
 
-- **Test Automation:** Selenium, Selenide, Cucumber
+- **Test Automation:** Selenium, Selenide, Cucumber, Playwright
 - **API Testing:** Postman
 - **Languages:** Java, Python, MySQL, HTML, CSS
 - **CI/CD:** Jenkins
