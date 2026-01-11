@@ -36,12 +36,6 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **Test Management:** Jira, TestRail
 - **Version Control:** Git, GitHub
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmitriy-Klv&theme=github_dark" width="32%" />
-</div>
 
 ## 📫 Contact Me
 📧 Email: dmklvd@gmail.com 
