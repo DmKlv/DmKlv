@@ -37,9 +37,6 @@ I continuously develop my skills and follow modern automation approaches, includ
 - **Version Control:** Git, GitHub
 
 
-## 📫 Contact Me
-📧 Email: dmklvd@gmail.com 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmKlv&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
