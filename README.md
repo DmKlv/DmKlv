@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1500&repeat=false&lines=Python+Backend+Developer+%7C+SDET+(Software+Development+Engineer+in+Test)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5500&pause=1200&color=00FF9D&center=true&vCenter=true&width=1400&repeat=false&lines=Python+Backend+Developer+%7C+SDET" />
 </p>
 
 
