@@ -4,13 +4,15 @@
 
 
 ## 👨‍💻 About Me   
-👋 Hello, I'm Dmitriy. I am a QA Engineer focused on delivering high-quality, reliable, and efficient software solutions. My experience spans both manual and automated testing, including the development and maintenance of robust test frameworks, CI/CD pipeline integration, and ensuring release stability.
+👋 About Me
 
-I actively apply best testing practices to enhance transparency and predictability in the development process. My work is aimed at identifying critical issues early, optimizing testing workflows, and creating tools that make development faster and safer.
+Hi, my name is Dmitry. I'm a Python Backend Developer with experience in automated testing (SDET).
 
-Collaboration with teams is a key aspect of my approach: I believe that knowledge sharing, teamwork, and active engagement from every team member are essential for project success. I enjoy solving real-world challenges, implementing innovative solutions, and improving existing tools to increase product quality.
+I develop backend services and REST APIs in Python, focusing on clean architecture, scalability, and maintainability. I take an engineering approach to my work: testing, CI/CD, and quality assurance are built into the system from the design stage.
 
-I continuously develop my skills and follow modern automation approaches, including Selenium, Selenide, Cucumber, and Postman, while leveraging CI/CD pipelines to integrate testing into the development workflow. My goal is to create reliable, maintainable, and scalable solutions that help teams achieve maximum efficiency.
+My SDET experience allows me to take a holistic view of the system—from design to release. I develop solutions that not only execute business logic but also remain stable, testable, and scalable.
+
+I'm interested in building reliable backend systems, optimizing performance, and improving development processes.
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
