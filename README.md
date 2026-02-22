@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1500&repeat=false&lines=Python+Backend+Developer+%7C+SDET+(Software+Development+Engineer+in+Test)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=6500&pause=800&color=00F0FF&center=true&vCenter=true&width=1600&repeat=false&lines=Python+Backend+Developer+%7C+SDET" />
 </p>
-
 
 ## 👨‍💻 About Me   
 👋 About Me
