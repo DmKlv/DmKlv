@@ -3,7 +3,6 @@
 </p>
 
 ## 👨‍💻 About Me   
-👋 About Me
 
 Hi, my name is Dmitry. I'm a Python Backend Developer with experience in automated testing (SDET).
 
