@@ -39,7 +39,7 @@ I'm interested in building reliable backend systems, optimizing performance, and
 
 ---
 
-### 🧪 SDET & Automation
+### 🛡 SDET & Automation
 - **Testing Frameworks:** Pytest (advanced), Selenium, Playwright, Selenide
 - **Testing Approaches:** Page Object Model (POM), Data-Driven Testing, API Testing
 - **Test Types:** Unit, Integration, End-to-End (E2E)
