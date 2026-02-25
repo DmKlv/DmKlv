@@ -12,7 +12,6 @@ My SDET experience allows me to take a holistic view of the system—from design
 
 I'm interested in building reliable backend systems, optimizing performance, and improving development processes.
 
-## 🛠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
