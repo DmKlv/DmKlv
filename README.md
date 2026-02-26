@@ -32,7 +32,7 @@ I'm interested in building reliable backend systems, optimizing performance, and
 
 ### 🚀 Backend Development
 - **Languages:** Python (Advanced OOP, Asyncio), SQL (PostgreSQL, MySQL)
-- **Frameworks & Libraries:** FastAPI, Django, RESTful APIs, Pydantic, SQLAlchemy
+- **Frameworks & Libraries:** FastAPI, Django, Flask, RESTful APIs, Pydantic, SQLAlchemy
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **API Design:** REST architecture, validation, authentication basics
 - **Architecture:** Clean Architecture, layered architecture principles
