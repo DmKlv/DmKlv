@@ -28,31 +28,6 @@ I'm interested in building reliable backend systems, optimizing performance, and
 ![TestRail](https://img.shields.io/badge/TestRail-FF6C37?style=for-the-badge&logo=testrail&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white)
 
-## 🛠 Technical Skills
-
-### 🚀 Backend Development
-- **Languages:** Python (Advanced OOP, Asyncio), SQL (PostgreSQL, MySQL)
-- **Frameworks & Libraries:** FastAPI, Django, Flask, RESTful APIs, Pydantic, SQLAlchemy
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **API Design:** REST architecture, validation, authentication basics
-- **Architecture:** Clean Architecture, layered architecture principles
-
----
-
-### 🛡 SDET & Automation
-- **Testing Frameworks:** Pytest (advanced), Selenium, Playwright, Selenide
-- **Testing Approaches:** Page Object Model (POM), Data-Driven Testing, API Testing
-- **Test Types:** Unit, Integration, End-to-End (E2E)
-- **API Tools:** Postman
-- **Quality Engineering:** Test design, test strategy, automation architecture
-
----
-
-### ⚙ Infrastructure & DevOps
-- **Containerization:** Docker, Docker Compose
-- **CI/CD:** GitHub Actions, Jenkins
-- **Systems:** Linux (CLI, Bash scripting)
-- **Version Control:** Git (advanced workflows: rebase, merge strategies, pull requests)
 
 
 <p align="center">
