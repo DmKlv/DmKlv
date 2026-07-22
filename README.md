@@ -1,113 +1,45 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Python+Backend+Developer+(%2B+AI);Ex-SDET+%E2%86%92+Clean+Architecture+%26+REST+APIs" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Python+Backend+Developer+(%2B+AI);Ex-SDET+%E2%86%92+Clean+Architecture+%26+REST+APIs" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ## `$ whoami`
 
 ```yaml
-Dmitriy-Klv@backend
----------------
-os        : Linux
 role      : Python Backend Developer (+AI)
 background: 3y QA Automation (SDET) -> Backend Engineering
 stack     : Python / Django / FastAPI / Flask
 focus     : REST APIs, Clean Architecture, testable systems
-status    : open to Python Backend opportunities 🇩🇪
+status    : open to opportunities 🇩🇪
 ```
 
-Python backend developer with hands-on experience in **Django, FastAPI, Flask**, relational & NoSQL databases, REST API design and Docker containerization. Before switching into development, I spent 3 years as a **QA Automation Engineer (SDET)** — that background means testability, CI/CD and quality are part of how I design systems from day one, not an afterthought.
+## `$ ls ./stack`
+
+<img src="https://skillicons.dev/icons?i=py" height="28" align="middle"/> <sub>Python</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="28" align="middle"/> <sub>Java</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="28" align="middle"/> <sub>Django</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="28" align="middle"/> <sub>FastAPI</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" height="28" align="middle"/> <sub>Flask</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="28" align="middle"/> <sub>MySQL</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="28" align="middle"/> <sub>PostgreSQL</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" height="28" align="middle"/> <sub>MongoDB</sub>
+
+<img src="https://skillicons.dev/icons?i=docker" height="28" align="middle"/> <sub>Docker</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" height="28" align="middle"/> <sub>GitHub Actions</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" height="28" align="middle"/> <sub>Jenkins</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="28" align="middle"/> <sub>Git</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="28" align="middle"/> <sub>Linux</sub>
+
+<img src="https://skillicons.dev/icons?i=selenium" height="28" align="middle"/> <sub>Selenium</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="28" align="middle"/> <sub>Postman</sub>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytest" height="28" align="middle"/> <sub>Pytest</sub>&nbsp;&nbsp;
+<img src="https://playwright.dev/img/playwright-logo.svg" height="28" align="middle"/> <sub>Playwright</sub>
 
 <br/>
-
-## `$ ls -la ./tech-stack/`
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=py,java,mysql,postgres,mongodb&theme=dark" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,linux,html,css&theme=dark" />
-
-**Testing / QA background**
-
-[![Pytest](https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=39FF14)](#)
-[![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=39FF14)](#)
-[![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=39FF14)](#)
-[![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=39FF14)](#)
-[![Allure](https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=qase&logoColor=39FF14)](#)
-
-<br/>
-
-## `$ git log --oneline --projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 [Apartment Booking Platform](https://github.com/Dmitriy-Klv/apartment-django-react)
-Full-stack rental platform — Django REST Framework backend + React frontend. JWT auth, search/filter/sort, full booking lifecycle, reviews, search history, Dockerized, deployed on AWS EC2.
-
-`Django` `DRF` `React` `MySQL` `Docker` `AWS EC2` `Pytest`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [CineQuery Engine](https://github.com/Dmitriy-Klv/cinequery-engine)
-Movie search engine over the Sakila dataset (MySQL) with query logging in MongoDB. Two interfaces — TUI (Textual) and Web (FastAPI) — plus a search analytics layer, built with Clean Architecture + Repository pattern.
-
-`FastAPI` `MySQL` `MongoDB` `Textual` `Pytest` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ [Task Manager](https://github.com/Dmitriy-Klv/task-manager-django)
-Django + MySQL task management app with a dedicated accounts module for registration and authentication.
-
-`Django` `MySQL` `Auth`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [Polako E2E](https://github.com/Dmitriy-Klv/Polako_E2E)
-Comprehensive E2E & API automation framework — Python, Playwright, Pytest, fully wired into CI/CD (GitHub Actions) for automated test runs on every push.
-
-`Playwright` `Pytest` `API Testing` `CI/CD`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `$ cat stats.log`
 
 <div align="center">
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Dmitriy-Klv&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
+[![Views](https://komarev.com/ghpvc/?username=Dmitriy-Klv&label=views&color=39FF14&style=flat-square)](https://github.com/Dmitriy-Klv)
 
 </div>
-
-<br/>
-
-<!--
-  Optional: live contribution snake — see setup notes at the bottom of this file.
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dmitriy-Klv/Dmitriy-Klv/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="contribution-snake" src="https://raw.githubusercontent.com/Dmitriy-Klv/Dmitriy-Klv/output/github-contribution-grid-snake.svg" />
-  </picture>
--->
