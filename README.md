@@ -4,8 +4,6 @@
 
 <br/>
 
-[![Portfolio Views](https://komarev.com/ghpvc/?username=Dmitriy-Klv&label=Profile%20Views&color=39FF14&style=flat-square)](https://github.com/Dmitriy-Klv)
-
 </div>
 
 <br/>
