@@ -96,12 +96,9 @@ Comprehensive E2E & API automation framework — Python, Playwright, Pytest, ful
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dmitriy-Klv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-Klv&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=8" />
-
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dmitriy-Klv&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=Dmitriy-Klv&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
 
 </div>
 
