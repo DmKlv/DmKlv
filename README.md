@@ -11,7 +11,7 @@ role      : Python Backend Developer (+AI)
 background: 3y QA Automation (SDET) -> Backend Engineering
 stack     : Python / Django / FastAPI / Flask
 focus     : REST APIs, Clean Architecture, testable systems
-status    : open to opportunities 🇩🇪
+status    : open to opportunities 
 ```
 
 ## `$ ls ./stack`
@@ -21,11 +21,15 @@ status    : open to opportunities 🇩🇪
 <img src="https://skillicons.dev/icons?i=django" height="28" align="middle"/> <sub>Django</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=fastapi" height="28" align="middle"/> <sub>FastAPI</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=flask" height="28" align="middle"/> <sub>Flask</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="28" align="middle"/> <sub>React</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="28" align="middle"/> <sub>Vite</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="28" align="middle"/> <sub>Tailwind</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" height="28" align="middle"/> <sub>MySQL</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres" height="28" align="middle"/> <sub>PostgreSQL</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mongodb" height="28" align="middle"/> <sub>MongoDB</sub>
 
 <img src="https://skillicons.dev/icons?i=docker" height="28" align="middle"/> <sub>Docker</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="28" align="middle"/> <sub>AWS</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=githubactions" height="28" align="middle"/> <sub>GitHub Actions</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=jenkins" height="28" align="middle"/> <sub>Jenkins</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git" height="28" align="middle"/> <sub>Git</sub>&nbsp;&nbsp;
@@ -34,8 +38,9 @@ status    : open to opportunities 🇩🇪
 <img src="https://skillicons.dev/icons?i=selenium" height="28" align="middle"/> <sub>Selenium</sub>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postman" height="28" align="middle"/> <sub>Postman</sub>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pytest" height="28" align="middle"/> <sub>Pytest</sub>&nbsp;&nbsp;
-<img src="https://playwright.dev/img/playwright-logo.svg" height="28" align="middle"/> <sub>Playwright</sub>
-
+<img src="https://playwright.dev/img/playwright-logo.svg" height="28" align="middle"/> <sub>Playwright</sub>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira" height="28" align="middle"/> <sub>Jira</sub>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" height="28" align="middle"/> <sub>Maven</sub>&nbsp;&nbsp;
 <br/>
 
 <div align="center">
