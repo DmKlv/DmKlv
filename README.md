@@ -8,7 +8,7 @@
 
 ```yaml
 role      : Python Backend Developer (+AI)
-background: 3y QA Automation (SDET) -> Backend Engineering
+background: QA Automation (SDET) -> Backend Engineering
 stack     : Python / Django / FastAPI / Flask
 focus     : REST APIs, Clean Architecture, testable systems
 status    : open to opportunities 
